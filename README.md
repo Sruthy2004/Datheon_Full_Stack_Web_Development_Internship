@@ -61,22 +61,6 @@ Technologies Used
 - Git and GitHub
 - GitHub Pages
 
-Repository Structure
-
-Datheon_Full_Stack_Web_Development_Internship/
-│
-├── README.md
-│
-├── Task_1_Portfolio/
-│   └── README.md
-│
-├── Task_2_Task_Manager/
-│   └── README.md
-│
-└── Task_3_Weather_App/
-    └── README.md
-
-The individual project folders contain their respective documentation and source files as uploaded.
 
 Learning Outcomes
 
